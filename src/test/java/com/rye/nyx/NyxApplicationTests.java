@@ -1,10 +1,10 @@
-package com.example.bianq;
+package com.rye.nyx;
 
-import org.junit.jupiter.api.Test;
+import org.junit.Test;
 import org.springframework.boot.test.context.SpringBootTest;
 
 @SpringBootTest
-class BianqApplicationTests {
+class NyxApplicationTests {
 
 	@Test
 	void contextLoads() {
